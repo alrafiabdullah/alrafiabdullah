@@ -11,6 +11,6 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alrafiabdullah&show_icons=true&locale=en&layout=compact" alt="alrafiabdullah" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=alrafiabdullah&show_icons=true&theme=radical&locale=en&layout=compact" alt="alrafiabdullah" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alrafiabdullah&show_icons=true&locale=en" alt="alrafiabdullah" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alrafiabdullah&show_icons=true&theme=radical&locale=en" alt="alrafiabdullah" /></p>
