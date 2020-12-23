@@ -2,6 +2,8 @@
 <h3 align="center">An aspirant backend developer from Dhaka, Bangladesh.</h3>
 <h5 align="center">Currently learning, React.</h5>
 
+![Everything Is AWESOME](https://media.giphy.com/media/PjJ1cLHqLEveXysGDB/source.gif)
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alrafiabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="alrafiabdullah" /> </p>
 
 <h3 align="center">Languages and Tools:</h3>
