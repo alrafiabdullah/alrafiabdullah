@@ -3,7 +3,7 @@
 <h5 align="center">Currently learning, React.</h5>
 
 <p align="center">
-  <img width="100%" height="100%" src="assets/deeplearning.gif">
+  <img width="50%" height="50%" src="assets/deeplearning.gif">
 </p>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=alrafiabdullah&label=Profile%20views&color=0e75b6&style=flat" alt="alrafiabdullah" /> </p>
