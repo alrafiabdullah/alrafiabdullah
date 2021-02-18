@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Abdullah! 👻</h1>
 <h3 align="center">An aspirant backend developer from Dhaka, Bangladesh.</h3>
-<h5 align="center">Currently learning, React.</h5>
+<h5 align="center">Currently delved into Deep Learning.</h5>
 
 <p align="center">
   <img width="50%" height="50%" src="assets/deeplearning.gif">
