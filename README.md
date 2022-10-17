@@ -15,6 +15,8 @@
     <a href="https://reactjs.org/" target="_blank"> <img src="https://cdn.freebiesupply.com/logos/large/2x/react-1-logo-svg-vector.svg" alt="react" width="5%" height="5%"/>
 </p>
 
+[[https://spotify-github-profile.vercel.app/api/view.svg?uid=31gsft6tjdgijmfdia6jrgewstuy&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=31gsft6tjdgijmfdia6jrgewstuy&cover_image=true&theme=default&show_offline=false&bar_color=53b14f&bar_color_cover=true)]]
+
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=alrafiabdullah&show_icons=true&theme=radical&locale=en&layout=compact" alt="alrafiabdullah" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=alrafiabdullah&show_icons=true&theme=radical&locale=en" alt="alrafiabdullah" /></p>
